@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         La Cale - Menus en français
 // @namespace    http://tampermonkey.net/
-// @version      1.0
+// @version      2.0
 // @description  Remplace le jargon pirate des menus par des termes compréhensibles
 // @match        https://la-cale.space/*
 // @grant        none
@@ -36,6 +36,13 @@
         'Marché Noir':           'Marché',
         'Pots Communs':          'Pot Commun',
         // 'Casino' reste inchangé
+
+        // Menu profil (avatar)
+        'Mes Cargaisons':        'Mes Uploads',
+        'Mes Pillages':          'Mes Téléchargements',
+        'Mon Économie':          'Mes Points Bonus',
+        'Ma Discipline':         'Hit&Run et Seedtime',
+        'Débarquer':             'Déconnexion',
     };
 
     function applyReplacements(root) {
