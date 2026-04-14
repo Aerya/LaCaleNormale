@@ -6,6 +6,8 @@ Menus "normaux" pour [LaCale](https://la-cale.space/)
 Désolé mais le vocabulaire pirate, marin toussa toussa c'est pas mon truc.
 J'en profite pour corriger la faute Basse de données en Base de données (Menu Torrents, sous-menu Parcourir).
 
+Cliquer sur le userscript en format RAW ou copier/coller son contenu pour l'ajouter à votre extension de navigateur Grease/Tamper/Violent Monkey et le scrit sera exécuté sur LaCale.
+
 | Avant | Après |
 | --- | --- |
 | Naviguer | Torrents |
